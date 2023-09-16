@@ -4,4 +4,4 @@ This script is used to backup all your databases in **MySQL**serever without the
 >Directory Path to save the output files.
 2. Outout
 >A tar file contiang dump file for each database.
->>Dump files for most recent backups .
+>Dump files for most recent backups .
